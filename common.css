@@ -1,16 +1,26 @@
 body {
+	margin: 0px 0px 0px 0px;
 	background-color:#FAFAFA;
 	color:#9E9E9E;
-	height: 5000px;
+	overflow-y: scroll;
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
+}
+
+a:hover {
+	cursor: hand;
+	cursor: pointer;
 }
 
 .navbar-div {
 	background-color:#E0E0E0;
 	width: 100%;
 	height: 100px;
-	top: 0;
-	left: 0;
 	position: fixed;
+	z-index:150;
 }
 
 .navbar-ul {
@@ -26,6 +36,8 @@ body {
 	float: left;
 	background-color: #424242;
 	color: #F5F5F5;
+	font-family: "Times New Roman", "Verdana";
+	font-style: italic;
 }
 
 .navbar-item {
@@ -48,4 +60,20 @@ body {
 
 .navbar-item:last-child {
 	border-left: none;
+}
+
+.home-section {
+	width:100%;
+	height:836px;
+	position: relative;
+	padding-top: 100px;
+	display:block;
+}
+
+.about-section {
+	width:100%;
+	height:836px;
+	position: relative;
+	padding-top: 100px;
+	display:block;
 }
