@@ -1,0 +1,9 @@
+body {
+	background-color:#AAAAAA;
+	font-family: 'Playfair Display', serif;
+}
+
+.content {
+	background-color:#CCCCCC;
+	font-family: inherit;
+}
