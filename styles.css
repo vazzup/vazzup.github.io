@@ -7,3 +7,8 @@ body {
 	background-color:#CCCCCC;
 	font-family: inherit;
 }
+
+.get-highlighted {
+	border-top: 2px solid #222222;
+	border-bottom: 2px solid #222222;
+}
