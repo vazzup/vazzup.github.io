@@ -1,2 +1,3 @@
-# vazzup.github.io
-My personal webpage
+# Vazzup's Personal Website
+
+Theme taken from www.allisonstadd.com
