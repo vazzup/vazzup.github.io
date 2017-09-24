@@ -25,7 +25,7 @@ img.project-picture {
 	width: 8em;
 	height:auto;
 	border-radius:100%;
-	border:1px solid #000000;
+	// border:1px solid #000000;
 	padding-left: -1em;
 }
 
@@ -39,13 +39,17 @@ th, td {
 }
 
 tr.project-name th {
-	border-top: 1px solid #000000;
 	border-bottom:1px solid #000000;
 }
 
 th {
 	text-align: left;
 }
+
+/* table {
+	border-left: 1px solid #000000;
+	border-right: 1px solid #000000;
+} */ 
 
 h1, h2, h3, h4, th {
 	font-family: 'Playfair Display', serif;
