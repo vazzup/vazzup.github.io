@@ -14,7 +14,7 @@
             line-height: 1.6;
             font-size: 18px;
             color: #444;
-            padding: 0 10px
+            padding: 0 10px;
         }
 
         h1,
@@ -31,10 +31,11 @@
 		}
 
         img.project-picture {
-            width: 10em;
+            width: 8em;
             height:auto;
 			border-radius:100%;
 			border:1px solid #000000;
+			padding-left: -1em;
         }
 		
 		ul.projects {
@@ -42,9 +43,10 @@
 		}
 
 		th, td {
-			padding: 1.25em;
+			padding-top: 1.25em;
+			padding-bottom: 1.25em;
 		}
-		
+
 		tr.project-name th {
 			border-top: 1px solid #000000;
 			border-bottom:1px solid #000000;
@@ -53,7 +55,6 @@
 		th {
 			text-align: left;
 		}
-
     </style>
 </head>
 
@@ -81,7 +82,7 @@
     </ul>
 	<hr>
     <h1>Projects</h1>
-	<table style="height:auto; width=100%;">
+	<table> 
 		<tr class="project-name">
 			<th colspan="2">Automated Gait Generation for Simulated Machines</th>
 		</tr>
