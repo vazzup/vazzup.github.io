@@ -1,0 +1,53 @@
+body {
+	font-family: 'Raleway', sans-serif;
+	margin: 40px auto;
+	max-width: 650px;
+	line-height: 1.6;
+	font-size: 18px;
+	color: #444;
+	padding: 0 10px;
+}
+
+h1,
+h2,
+h3 {
+	line-height: 1.2
+}
+
+img.profile-picture {
+	width:100%;
+	height:auto;
+	border-radius:100%;
+	border:1px solid #000000;
+}
+
+img.project-picture {
+	width: 8em;
+	height:auto;
+	border-radius:100%;
+	border:1px solid #000000;
+	padding-left: -1em;
+}
+
+ul.projects {
+	list-style-type: none;
+}
+
+th, td {
+	padding-top: 1.25em;
+	padding-bottom: 1.25em;
+}
+
+tr.project-name th {
+	border-top: 1px solid #000000;
+	border-bottom:1px solid #000000;
+}
+
+th {
+	text-align: left;
+}
+
+h1, h2, h3, h4, th {
+	font-family: 'Playfair Display', serif;
+	font-weight: normal;
+}
