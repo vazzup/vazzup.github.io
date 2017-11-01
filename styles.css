@@ -35,7 +35,7 @@ img.project-picture {
 	height:auto;
 	border-radius:100%;
 	// border:1px solid #000000;
-	padding-left: -1em;
+	// padding-left: -1em;
 }
 
 ul.projects {
@@ -43,6 +43,7 @@ ul.projects {
 }
 
 th, td {
+	padding: 1em;
 }
 
 tr.project-name th {
@@ -117,4 +118,10 @@ footer i {
 
 .fa-code{
 	color: white;
+}
+
+.overflowable {
+	overflow-x: auto;
+	padding: 0px;
+	margin: 0px;
 }
