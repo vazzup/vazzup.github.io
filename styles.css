@@ -1,6 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+/* Make each col- class float to left with padding */
+[class*="col-"] {
+	float: left;
+	padding: 1em;
+	width: 100%;
+}
+
+/* Makes sure no space is wasted in row and only specified elements come*/
+.row::after {
+	content: "";
+	clear: both;
+	display: table;
+}
+
+/* Media query - sets widths for all columns on screens more than 768px wide*/
+@media only screen and (min-width: 768px) {
+	/* For desktops: */
+	/* Setting up 12 columns */
+	.col-1 {width: 8.33%;}
+	.col-2 {width: 16.66%;}
+	.col-3 {width: 25%;}
+	.col-4 {width: 33.33%;}
+	.col-5 {width: 41.66%;}
+	.col-6 {width: 50%;}
+	.col-7 {width: 58.33%;}
+	.col-8 {width: 66.66%;}
+	.col-9 {width: 75%;}
+	.col-10 {width: 83.33%;}
+	.col-11 {width: 91.66%;}
+	.col-12 {width: 100%;}
+}
+
 body {
 	font-family: 'Raleway', sans-serif;
-	margin: 40px auto;
+	margin: 0px auto;
 	max-width: 50em;
 	line-height: 1.6;
 	font-size: 18px;
@@ -30,21 +66,16 @@ a:hover {
 	text-decoration: underline;
 }
 
-div.whoami {
-	margin: 0px;
-	padding: 0px;
-	border: 0px;
-	display: inline-block;
-}
-
 div.profilepicture {
-	width: 100%;
 	display: inline-block;
+	padding: 1em;
 }
 
 div.whoamitext {
-	width: 100%;
 	display: inline-block;
+	vertical-align: middle;
+	align: middle;
+	padding: 1em;
 }
 
 img.profile-picture {
@@ -53,6 +84,7 @@ img.profile-picture {
 	height:auto;
 	border-radius:100%;
 	border:1px solid #000000;
+	vertical-align: inherit;
 }
 
 img.project-picture {
