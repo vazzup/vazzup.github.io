@@ -25,6 +25,7 @@ github_username: vazzup
 logo: "./images/profile-picture-min.JPG"
 
 # Build settings
+github: [metadata]
 markdown: kramdown
 theme: jekyll-theme-minimal
 plugins:
