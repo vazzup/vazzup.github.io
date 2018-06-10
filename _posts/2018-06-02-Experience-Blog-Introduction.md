@@ -1,5 +1,5 @@
 ---
-title:  "My Experiments with Engineering - Post 0"
+title:  "My Experiments with Engineering (MEWE) - Post 0"
 layout: post 
 author: Vatsal Kanakiya
 date:   2018-06-02
