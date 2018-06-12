@@ -1,6 +1,6 @@
 ---
 title:  "My Experiments with Engineering (MEWE) - Post 0"
-layout: post 
+layout: post_edited
 author: Vatsal Kanakiya
 date:   2018-06-02
 tags: Vatsal Kanakiya blog story engineering introduction series
