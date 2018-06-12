@@ -4,6 +4,7 @@ layout: default
 ---
 # All Posts
 <ul>
+
 	{% for post in site.posts %}
 		<li>
 			<a href="{{ post.url }}" style="font-size: 1.5em">{{ post.title }}</a>

@@ -97,9 +97,10 @@ IEEE Explore.
 ---
 * Machine Learning, Stanford University [_(Certificate)_](http://vazzup.me/ml-certificate){:target="_blank"}
 * Neural Networks and Deep Learning, deeplearning.ai [_(Certificate)_](http://vazzup.me/dl1-certificate){:target="_blank"}
-* Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization,
+* Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization, deeplearning.ai
 [_(Certificate)_](http://vazzup.me/dl2-certificate){:target="_blank"}
-* Structuring Machine Learning Projects, [_(Certificate)_](http://vazzup.me/dl3-certificate){:target="_blank"}
+* Structuring Machine Learning Projects, deeplearning.ai
+[_(Certificate)_](http://vazzup.me/dl3-certificate){:target="_blank"}
 
 # More About Me
 ---
