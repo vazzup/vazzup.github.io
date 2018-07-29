@@ -104,10 +104,17 @@ IEEE Explore.
 
 # More About Me
 ---
-Apart from my academic side, I'm a huge literature, music and movie buff. On the big screen, I love the works of Woody
+> "... medicine, law, business, engineering, these are noble pursuits and necessary to sustain life. But poetry, beauty,
+> romance, love, these are what we stay alive for."  
+   
+_- Robin Williams, Dead Poets Society_{:style="float:right;"}
+<br>
+<p style="text-align: justify; padding: 0px; margin: 0px;">
+Apart from my academic side, I'm a huge literature, music and movie buff. On the big screen, I love the works of Wood
 Allen, Quentin Tarantino, Cristopher Nolan and Wes Anderson. I particularly love the works of Wes Anderson, not least
 due to the color and symmetry in his work. In literature I have a long list of fiction and non fiction writers I adore.
 One I must mention here is Douglas Adams for his philosophical satire "The HitchHiker's Guide to the galaxy." I aspire
 to write poems as raw as Robert Frost's.  Lastly, in the music department, I wonder at the genius that are the artists
 Pink Floyd, Radiohead, Nirvana, Steven Wilson, A. R. Rahman, Miles Davis, Dave Brubeck, Chopin and Debussy to name a few.
+</p>
 
