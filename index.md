@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: default_feedify
+layout: default
 ---
 # What's all this then?
 ---
