@@ -1,5 +1,5 @@
 ---
-title:  "MEWE - Post 5 - Selecting a university for your masters"
+title:  "MEWE - Post 2 - Selecting a university for your masters"
 layout: post_edited
 author: Vatsal Kanakiya
 date:   2018-07-17
