@@ -22,7 +22,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://vazzup.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: VazzupK
 github_username: vazzup
-logo: "./images/profile-picture-min.JPG"
+logo: "./images/img_1695_1.png"
 google_analytics: "UA-118509585-1"
 
 # Build settings
