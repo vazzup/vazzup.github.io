@@ -16,13 +16,13 @@
 title: Vatsal Kanakiya
 email: vatsalkanakiya@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-        Vatsal Kanakiya is a Computer Science graduate from K. J. Somaiya College
-        of Engineering. This is his personal website and blog.
+        Vatsal Kanakiya is the CTO of 100X.VC and part of the venture investment team of his family
+        office Mehta Ventures. This is his personal website and blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://vazzup.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: VazzupK
 github_username: vazzup
-logo: "./images/img_1695_1.png"
+logo: "./images/imageedit_2_9753662206.png"
 google_analytics: "UA-118509585-1"
 
 # Build settings
