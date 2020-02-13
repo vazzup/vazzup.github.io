@@ -1,0 +1,9 @@
+---
+---
+@media print, screen and (max-width: 720px) {
+  header img {
+    display:none!important;
+  }
+}
+
+@import "{{ site.theme }}"
