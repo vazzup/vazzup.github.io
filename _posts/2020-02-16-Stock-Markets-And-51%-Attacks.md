@@ -2,7 +2,7 @@
 title:  "Stock Market Slumps and 51% attacks"
 layout: post_edited
 author: Vatsal Kanakiya
-date:   2020-02-11
+date:   2020-02-16
 tags: stock markets slumps India story growth venture capital economics 3-minute-thoughts
 ---
 <!--date:   2018-06-03 09:06:04 +0530-->
