@@ -9,7 +9,7 @@ tags: Vatsal Kanakiya blog COVID19 CoronaVirus Data India Facts newsletter 3-min
 reflect the views of any firm I am associated with. Please do not take anything I say as medical, financial, or personal
 advice.**   
 
-![Don't Panic!](../../../assets/images/dontpanic.jpg)   
+![Don't Panic!]({{ "assets/images/dontpanic.jpg" | absolute_url }})   
 The CoronaVirus is finally in India. The Indian government has done a commendable job to delay the arrival of corona,
 and to mitigate the spread of the same.    
 
