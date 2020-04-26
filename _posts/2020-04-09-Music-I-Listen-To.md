@@ -15,6 +15,10 @@ A list of Artists / Songs / Albums I like in the order I discovered them. Know a
     * 21st Century Breakdown
   * Taylor Swift
     * Red
+  * Linkin Park
+    * Hybrid Theory
+    * Meteora
+    * A Thousand Suns
 * 2012
   * Nirvana
     * Nevermind
@@ -25,6 +29,11 @@ A list of Artists / Songs / Albums I like in the order I discovered them. Know a
     * Wish You Were Here
     * The Wall
     * Meddle
+  * Switchfoot
+    * Legend Of Chin
+    * Nothing is Sound
+    * Learning to Breathe
+    * Hello Hurricane
 * 2013
   * Porcupine Tree
     * Signify
