@@ -16,13 +16,13 @@ makes one feel in control of their destiny.
 Frost, on the other hand, was an American poet. He was a regular man, living off regular means, and he wrote about regular
 things. He wrote about the world, and people, and how their interactions played out in minute detail - but from these
 quotidian details, he brought out beauty and lessons that were anything but. For an example:
-> Nature's first green is gold
-> Its hardest hue to hold
-> Her early leaf's a flower
-> But only so an hour
-> Then leaf subsides to leaf
-> So Eden sank to grief
-> So dawn goes down to day
+> Nature's first green is gold   
+> Its hardest hue to hold   
+> Her early leaf's a flower   
+> But only so an hour   
+> Then leaf subsides to leaf   
+> So Eden sank to grief   
+> So dawn goes down to day   
 > Nothing Gold can stay.   
    
 And in that example also lies who Frost was me. He realised each moment was ethereal, transient. Frost to me is a person
@@ -30,9 +30,9 @@ who exists, observes, and feels. And it is the last part that is key to me. To f
 in a moment that is all yours to take in, to observe, to be in. It reminds you that the world around you has been, is, and
 will be long after you. You don't need to have a larger ambition or goal to be. You are self contained. Frost, had perspective.
  The best way to summarise is another Frost poem.
-> They cannot scare me with their empty spaces
-> Between stars -- on stars where no human race is.
-> I have it in me so much closer home
+> They cannot scare me with their empty spaces   
+> Between stars -- on stars where no human race is.   
+> I have it in me so much closer home   
 > To scare myself with my own desert places.   
    
 My dilemma here, is that I am constantly torn between being Faust, and being Frost. Sometimes all I want is to push myself
