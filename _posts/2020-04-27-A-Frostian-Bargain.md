@@ -5,7 +5,7 @@ author: Vatsal Kanakiya
 date:   2020-04-27
 tags: Vatsal Kanakiya personal blog Frost Faust poem life philosophy
 ---
-Faust was an erudite man - a scholar. He was a voracious learner. And so when he me the devil, the devil offered him
+Faust was an erudite man - a scholar. He was a voracious learner. And so when he met the devil, the devil offered him
 all the knowledge of the world. For the meager cost of his soul. This is the Faustian bargain. It is supposed to be a
 warning tale for the ambitious who may give up their morality or humanity for a goal.   
    
@@ -25,7 +25,7 @@ quotidian details, he brought out beauty and lessons that were anything but. For
 > So dawn goes down to day   
 > Nothing Gold can stay.   
    
-And in that example also lies who Frost was me. He realised each moment was ethereal, transient. Frost to me is a person
+And in that example also lies who Frost was to me. He realised each moment was ethereal, transient. Frost to me is a person
 who exists, observes, and feels. And it is the last part that is key to me. To feel is to know that you exist, to be frozen
 in a moment that is all yours to take in, to observe, to be in. It reminds you that the world around you has been, is, and
 will be long after you. You don't need to have a larger ambition or goal to be. You are self contained. Frost, had perspective.
