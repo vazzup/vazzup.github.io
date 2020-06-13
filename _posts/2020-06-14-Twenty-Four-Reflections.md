@@ -15,7 +15,7 @@ the perspective of the time since the first cellular life emerged, the significa
 so on. Perspective makes a big difference.   
    
 > "I rebel; Therefore I exist"
-> - Albert Camus
+> \- Albert Camus
    
 But what fun is it to have a perspective that marks everything trivial? Sure, it allows you to remain stoic about shit
 because "hey, what does it matter anyway?" This sort of Nihilism leads to nothing. Like Camus, I decide to rebel against
