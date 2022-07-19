@@ -1,7 +1,13 @@
 ---
 title: Home
-layout: default
+layout: default_noimg
 ---
+
+<button type="button" class="collapsible" data-target-collapse="web3-content">Open Collapsible</button>
+<div class="content" id="web3-content">
+  <p>Lorem ipsum...</p>
+</div>
+
 # Blog
 ---
 ## Recent Posts
@@ -27,12 +33,15 @@ layout: default
 
 # What's all this then?
 ---
-Hello and welcome to my personal website and blog. I write about my personal experiences in the venture capital world,
-past experiences from engineering school, movies, books, art, economics, finance, technologies, and in general anything
+I write about my personal experiences in the venture capital world, Web3, Emerging Techologies,
+past experiences from engineering school, movies, books, art, economics, finance, and in general anything
 and everything I find interesting.
 
-I am currently the CTO of [100X.VC](http://100x.vc), a new India focused venture fund looking to be the launching pad for
-the next 500 moonshots coming out of India. Pitch to us at [pitch@100x.vc](mailto:pitch@100x.vc). Want to talk to me
+I am currently the Principal and CTO of [100X.VC](https://100x.vc), a new India focused venture fund looking to be the
+launching pad for the next 500 moonshots coming out of India. I'm also Web3 Investor at [2AM VC](www.2amvc.com) and
+partner at my Family Office [Mehta Ventures](https://mehtaventures.co)
+
+Pitch to 100X.VC at [100x.vc/class08](https://100x.vc/class08). Want to talk to me
 about something? Write to me at [vatsal@100x.vc](mailto:vatsal@100x.vc)
 
 <!-- Planned posts [VatsalBaba Speaks - An Introduction]()
