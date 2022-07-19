@@ -251,6 +251,7 @@ GEM
       unf_ext
     unf_ext (0.0.8.2)
     unicode-display_width (1.8.0)
+    webrick (1.7.0)
     zeitwerk (2.6.0)
 
 PLATFORMS
@@ -262,9 +263,7 @@ DEPENDENCIES
   jekyll-remote-theme
   minima (~> 2.0)
   tzinfo-data
-<<<<<<< HEAD
+  webrick (~> 1.7)
 
 BUNDLED WITH
    2.3.18
-=======
->>>>>>> 488910dbf08d61b2a53483c07cdfac4ccec90eb9
