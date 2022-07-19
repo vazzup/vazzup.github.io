@@ -262,6 +262,9 @@ DEPENDENCIES
   jekyll-remote-theme
   minima (~> 2.0)
   tzinfo-data
+<<<<<<< HEAD
 
 BUNDLED WITH
    2.3.18
+=======
+>>>>>>> 488910dbf08d61b2a53483c07cdfac4ccec90eb9
