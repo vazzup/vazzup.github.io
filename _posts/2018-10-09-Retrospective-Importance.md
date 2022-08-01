@@ -3,7 +3,7 @@ title:  "The Importance of Retrospectives"
 layout: post_edited
 author: Vatsal Kanakiya
 date:   2018-10-09
-tags: Vatsal Kanakiya blog retrospective thoughts positive path story
+tags: Vatsal Kanakiya blog retrospective thoughts positive path story misc
 ---
 <!--date:   2018-06-03 09:06:04 +0530-->
 If you've ever looked out of a car on a highway, you'll notice that everything seems to move past in a blur - you can't

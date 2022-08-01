@@ -3,7 +3,7 @@ title:  "MEWE - Post 2 - Selecting a university for your masters"
 layout: post_edited
 author: Vatsal Kanakiya
 date:   2018-07-17
-tags: Vatsal Kanakiya blog story engineering introduction series
+tags: Vatsal Kanakiya blog story engineering introduction series misc
 ---
 <!--date:   2018-06-03 09:06:04 +0530-->
 <p style="text-align: justify;">

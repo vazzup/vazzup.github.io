@@ -1,25 +1,47 @@
 ---
 title: Home
-layout: default_noimg
+layout: default_noimg_homepage
 ---
 
-<button type="button" class="collapsible" data-target-collapse="web3-content">Open Collapsible</button>
-<div class="content" id="web3-content">
-  <p>Lorem ipsum...</p>
+<h1 id="web3-blog">
+  <button type="button" class="collapsible active" data-target-plus="web3-plus" data-target-collapse="web3-content" style="font-size:inherit;font-family:inherit;font-weight:inherit;">
+    <div style="display:inline-block;float:left;">Web3 Blogs</div>
+    <div style="display:inline-block;float:right;" id="web3-plus">-</div>
+  </button>
+</h1>
+<div class="content-default" id="web3-content" style="display:block;">
+  <h2 id="recent-posts">Recent Posts</h2>
+  <ul>
+    {% assign t = 'web3' %}
+    {% for post in site.posts limit:10 %}
+    {% if post.tags contains t %}
+    <li> <a href="{{ post.url }}">{{ post.title }}</a> </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+  <a href="web3.html">Read all Web3 Blogs</a>
+</div>
+<div></div><br>
+<h1 id="blog">
+  <button type="button" class="collapsible" data-target-plus="misc-plus" data-target-collapse="misc-content" style="font-size:inherit;font-family:inherit;font-weight:inherit;">
+    <div style="display:inline-block;float:left;">Miscellaneous Blogs</div>
+    <div style="display:inline-block;float:right;" id="misc-plus">+</div>
+  </button>
+</h1>
+<div class="content" id="misc-content">
+  <h2 id="recent-posts">Recent Posts</h2>
+  <ul>
+    {% assign t2 = 'misc' %}
+    {% for post in site.posts limit:10 %}
+    {% if post.tags contains t2 %}
+    <li> <a href="{{ post.url }}">{{ post.title }}</a> </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+  <a href="blog.html">Read all Other Blogs</a>
 </div>
 
-# Blog
----
-## Recent Posts
-<ul>
-  {% for post in site.posts limit:10 %}
-  <li> <a href="{{ post.url }}">{{ post.title }}</a> </li>
-  {% endfor %}
-</ul>
-**[View all Posts...](blog.md)**   
-   
-
-<div style="width:100%; height:auto; margin-top:-1rem; margin-bottom:1rem">
+<div style="width:100%; height:auto; margin-top:1rem; margin-bottom:1rem">
   <center>
     <a href="https://vazzup.substack.com">
       <button style="font-size:14px; padding: 0 12px; height:40px;

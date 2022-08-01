@@ -3,7 +3,7 @@ title:  "Computer Science Education Models I Love"
 layout: post_edited
 author: Vatsal Kanakiya
 date:   2020-02-11
-tags: Vatsal Kanakiya blog computer science education future business-models venture capital economics newsletter 3-minute-thoughts
+tags: Vatsal Kanakiya blog computer science education future business-models venture capital economics newsletter 3-minute-thoughts misc
 ---
 <!--date:   2018-06-03 09:06:04 +0530-->
 India is rapidly de-industrializing. The next wave of jobs will have to come from the IT and Tech Industry. I believe India can build a middle class, and a robust economy, with the backbone of software. Software education in India is changing, and I believe good educational models can help expedite this movement. Some I particularly like

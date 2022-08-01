@@ -3,7 +3,7 @@ title:  "Distribution Is King (Maker)"
 layout: post_edited
 author: Vatsal Kanakiya
 date:   2020-01-21
-tags: Vatsal Kanakiya blog distribution kingmaker venture capital economics newsletter 3-minute-thoughts
+tags: Vatsal Kanakiya blog distribution kingmaker venture capital economics newsletter 3-minute-thoughts misc
 ---
 <!--date:   2018-06-03 09:06:04 +0530-->
 [Slack](http://slack.com) was the no. 1 Workspace Collaboration Tools - until Microsoft Teams came along. Within a

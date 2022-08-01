@@ -3,7 +3,7 @@ title: "A Frostian Bargain"
 layout: post_edited
 author: Vatsal Kanakiya
 date:   2020-04-27
-tags: Vatsal Kanakiya personal blog Frost Faust poem life philosophy
+tags: Vatsal Kanakiya personal blog Frost Faust poem life philosophy misc
 ---
 Faust was an erudite man - a scholar. He was a voracious learner. And so when he met the devil, the devil offered him
 all the knowledge of the world. For the meager cost of his soul. This is the Faustian bargain. It is supposed to be a

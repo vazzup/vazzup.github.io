@@ -3,7 +3,7 @@ title:  "Focus on Focussed Execution"
 layout: post_edited
 author: Vatsal Kanakiya
 date:   2020-03-06
-tags: Vatsal Kanakiya blog execution startups scaling focus funding india venture capital economics business-model newsletter 3-minute-thoughts
+tags: Vatsal Kanakiya blog execution startups scaling focus funding india venture capital economics business-model newsletter 3-minute-thoughts misc
 ---
 Part of my job is meeting and talking to a ton of startups (Duh). The most common advice I've given and heard given to
 founders is focus on focussed execution.   

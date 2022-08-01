@@ -3,7 +3,7 @@ title:  "Lending Is The New Advertising"
 layout: post_edited
 author: Vatsal Kanakiya
 date:   2020-01-22
-tags: Vatsal Kanakiya blog lending advertising fintech india venture capital economics business-model newsletter 3-minute-thoughts
+tags: Vatsal Kanakiya blog lending advertising fintech india venture capital economics business-model newsletter 3-minute-thoughts misc
 ---
 <!--date:   2018-06-03 09:06:04 +0530-->
 In the late 00’s, as the internet age matured in developed countries, advertising became the sexy way to monetise. The

@@ -3,7 +3,7 @@ title:  "The Great Filter of Ambition"
 layout: post_edited
 author: Vatsal Kanakiya
 date:   2018-09-25
-tags: Vatsal Kanakiya blog great filter ambition dreams career life
+tags: Vatsal Kanakiya blog great filter ambition dreams career life misc
 ---
 <!--date:   2018-06-03 09:06:04 +0530-->
 I recently saw [this brilliant video](https://www.youtube.com/watch?v=UjtOGPJ0URM) explaining the implications of the

@@ -3,7 +3,7 @@ title:  "The Catcher In The Rye - Thoughts"
 layout: post_edited
 author: Vatsal Kanakiya
 date:   2018-07-30
-tags: Vatsal Kanakiya blog catcher in the rye salinger book review thoughts opinion goodreads old teenage
+tags: Vatsal Kanakiya blog catcher in the rye salinger book review thoughts opinion goodreads old teenage misc
 ---
 <!--date:   2018-06-03 09:06:04 +0530-->
 <p style="text-align: justify;">

@@ -3,7 +3,7 @@ title:  "Danger is Real, Fear is Not (And Other Mental Models for Troubled Times
 layout: post_edited
 author: Vatsal Kanakiya
 date:   2020-03-09
-tags: Vatsal Kanakiya blog danger fear rational hanlons razor mental models behavorial economics newsletter 3-minute-thoughts
+tags: Vatsal Kanakiya blog danger fear rational hanlons razor mental models behavorial economics newsletter 3-minute-thoughts misc
 ---
 In this day and age, mass paranoia and hysteria are common. Even contradictory ideas can simultaneously have mass
 following, just because of the sheer reach digital platforms provide.   

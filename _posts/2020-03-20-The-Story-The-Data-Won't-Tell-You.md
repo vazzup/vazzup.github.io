@@ -3,7 +3,7 @@ title: "The Story the Data Won't Tell You"
 layout: post_edited
 author: Vatsal Kanakiya
 date:   2020-03-20
-tags: Vatsal Kanakiya blog COVID19 CoronaVirus Data India Facts newsletter 3-minute-thoughts
+tags: Vatsal Kanakiya blog COVID19 CoronaVirus Data India Facts newsletter 3-minute-thoughts misc
 ---
 **Disclaimer: I am not an expert in COVID19, or medicine, or pathology. I am expressing personal opinions which do not
 reflect the views of any firm I am associated with. Please do not take anything I say as medical, financial, or personal

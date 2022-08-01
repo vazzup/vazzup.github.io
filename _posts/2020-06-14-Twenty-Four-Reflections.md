@@ -3,7 +3,7 @@ title: "Twenty Four"
 layout: post_edited
 author: Vatsal Kanakiya
 date:   2020-06-14
-tags: Birthday 24 Vatsal Kanakiya personal blog 
+tags: Birthday 24 Vatsal Kanakiya personal blog misc
 ---
 I am in the prime of my life. Literally, and mathematically. 24 can be represented as 2 * 2 * 2 * 3, all primes. Though
 this is a bit of a cheat. All numbers can be represented as a product of primes. So I can confidently claim that,

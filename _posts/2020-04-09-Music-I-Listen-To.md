@@ -3,7 +3,7 @@ title: "Music I listen To - a Dynamic List"
 layout: post_edited
 author: Vatsal Kanakiya
 date:   2020-04-09
-tags: Vatsal Kanakiya blog music lists personal likes
+tags: Vatsal Kanakiya blog music lists personal likes misc
 ---
 A list of Artists / Songs / Albums I like in the order I discovered them. Know any artists / albums that I love, but have
  missed? Drop me a text and I'll add it.   

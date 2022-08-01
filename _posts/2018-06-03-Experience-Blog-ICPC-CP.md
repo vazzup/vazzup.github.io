@@ -3,7 +3,7 @@ title:  "MEWE - Post 1 - ACM ICPC and Competitive Programming"
 layout: post_edited
 author: Vatsal Kanakiya
 date:   2018-06-03
-tags: Vatsal Kanakiya blog story engineering series acm icpc competitive programming
+tags: Vatsal Kanakiya blog story engineering series acm icpc competitive programming misc
 ---
 <!--date:   2018-06-03 09:06:04 +0530-->
 <p style="text-align: justify;">
