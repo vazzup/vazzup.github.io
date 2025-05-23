@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ethereum Blockchain Scaling Rollups Optimistic Zk-Rollups Vatsal Kanakiya Blog Web3 on Vatsal Kanakiya&#39;s Blog</title>
+    <link>http://localhost:1313/tags/ethereum-blockchain-scaling-rollups-optimistic-zk-rollups-vatsal-kanakiya-blog-web3/</link>
+    <description>Recent content in Ethereum Blockchain Scaling Rollups Optimistic Zk-Rollups Vatsal Kanakiya Blog Web3 on Vatsal Kanakiya&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 15 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ethereum-blockchain-scaling-rollups-optimistic-zk-rollups-vatsal-kanakiya-blog-web3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scaling Ethereum with Rollups - a Primer</title>
+      <link>http://localhost:1313/posts/2022-07-15-scaling-ethereum-with-rollups-a-primer/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2022-07-15-scaling-ethereum-with-rollups-a-primer/</guid>
+      <description>&lt;p&gt;Rollups are the talk of the town - they&amp;rsquo;re one solution to scaling the $ETH blockchain to process more Transactions (Tx) per Second. Here&amp;rsquo;s how Rollups work, and why they&amp;rsquo;re important: 👇🧵&lt;/p&gt;&#xA;&lt;p&gt;Today, every miner in the ETH network has to verify each and every transaction that is made. They check if it&amp;rsquo;s valid, i.e., it&amp;rsquo;s properly signed, there are enough tokens, etc. This is obviously not a very scalable model&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

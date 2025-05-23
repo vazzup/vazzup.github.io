@@ -1,0 +1,61 @@
+# config/_default/menus.en.toml
+
+[[main]]
+  name = "Blog"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "Topics"
+  pageRef = "topics"
+  weight = 20
+
+
+[[main]]
+  identifier = "search"
+  weight = 99
+  [main.params]
+    action = "search"
+    icon = "search"
+
+[[footer]]
+  name = "Linkedin"
+  url = "https://linkedin.com/in/vazzup"
+  weight = 10
+  [footer.params]
+    icon = "linkedin"
+    showName = false
+    target = "_blank"
+
+[[footer]]
+  name = "Twitter"
+  url = "https://twitter.com/vazzupk"
+  weight = 20
+  [footer.params]
+    icon = "twitter"
+    showName = false
+    target = "_blank"
+
+[[footer]]
+  name = "Instagram"
+  url = "https://instagram.com/vatsalkanakiya"
+  weight = 30
+  [footer.params]
+    icon = "instagram"
+    showName = false
+    target = "_blank"
+
+[[footer]]
+  name = "Github"
+  url = "https://github.com/vazzup"
+  weight = 40
+  [footer.params]
+    icon = "github"
+    showName = false
+    target = "_blank"
+
+[[footer]]
+  name = "Privacy"
+  pageRef = "privacy"
+  weight = 50
+

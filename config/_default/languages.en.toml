@@ -1,0 +1,14 @@
+# config/_default/languages.en.toml
+
+title = "Vatsal Kanakiya's Blog"
+
+[params.author]
+name = "Vatsal Kanakiya"
+image = "img/author.jpg"
+headline = "Builder-at-large"
+bio = "Vatsal is an investor & entrepreneur. He was a founding member of 100X.VC, and led the fund as CEO from Dec 2023 until March 2025"
+links = [
+  { twitter = "https://twitter.com/vazzupk" },
+  { linkedin = "https://linkedin.com/in/vazzup" },
+  { instagram = "https://instagram.com/vatsalkanakiya" }
+]

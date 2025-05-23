@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bitcoin Cryptocurrencies Scaling Blockchain Lightning Netowrk Vatsal Kanakiya Blog Web3 on Vatsal Kanakiya&#39;s Blog</title>
+    <link>http://localhost:1313/tags/bitcoin-cryptocurrencies-scaling-blockchain-lightning-netowrk-vatsal-kanakiya-blog-web3/</link>
+    <description>Recent content in Bitcoin Cryptocurrencies Scaling Blockchain Lightning Netowrk Vatsal Kanakiya Blog Web3 on Vatsal Kanakiya&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 08 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/bitcoin-cryptocurrencies-scaling-blockchain-lightning-netowrk-vatsal-kanakiya-blog-web3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scaling Bitcoin with Lightning Network - a Primer</title>
+      <link>http://localhost:1313/posts/2022-07-08-scaling-bitcoin-with-lightning-network-a-primer/</link>
+      <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2022-07-08-scaling-bitcoin-with-lightning-network-a-primer/</guid>
+      <description>&lt;p&gt;Here&amp;rsquo;s the thing: L1s like Bitcoin and Ethereum are slow. Bitcoin currently processes about 5 Transactions (Tx) a second. On the other hand, Visa does 24000 Tx / sec. How can crypto ever outperform traditional money? Here&amp;rsquo;s how Bitcoin scales with the Lightning Network👇🧵&lt;/p&gt;&#xA;&lt;p&gt;There are many ways blockchains can be scaled. Today we&amp;rsquo;ll cover Payment Channels. Payment Channels basically take transactions off the Blockchain and make them Peer to Peer. The Lightning Network on Bitcoin is an example of this. Let&amp;rsquo;s take an example:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
