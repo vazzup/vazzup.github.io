@@ -1,3 +1,7 @@
 baseURL = 'https://vatsalkanakiya.com'
 languageCode = 'en'
 title = "Vatsal Kanakiya's Blog"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
