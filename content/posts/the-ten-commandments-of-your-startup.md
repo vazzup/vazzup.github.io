@@ -19,7 +19,7 @@ contributor and the company: 'Every reported bug should have a preliminary solut
 should be no more than 2 week long.' 'Customer emails should be responded to in under 30 minutes.' You get the gist.   
    
 It's not just about how you do work though. It's also about ethics. 'Be kind to customers.' 'No questions asked return
-policy.' All these may seem frivolous, but they set thec cultural expectation. These rules force team mates to put the
+policy.' All these may seem frivolous, but they set the cultural expectation. These rules force team mates to put the
 customer above everything else and value their trust as paramount.   
    
 Not only do you write these commandments, but you enforce them with an iron hand. As CEO, it's your job that culture is
