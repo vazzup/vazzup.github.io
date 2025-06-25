@@ -1,6 +1,6 @@
 ---
 date: '2025-06-25T15:43:56+05:30'
-draft: true
+draft: false
 title: 'Superiority Complex'
 ---
 > 'If I had the money and the connections that the Zepto Founders had, even I could build it. In fact, I don't understand
