@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/2022-07-01-synthetix-protocol-deepdive/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/2022-07-01-synthetix-protocol-deepdive/</guid>
-      <description>&lt;p&gt;I read through the Synthetix Protocol (synthetix.io). It&amp;rsquo;s a protocol enabling the creation of synthetic derivatives based off real-world assets on the blockchain today. It&amp;rsquo;s purpose is only speculative trading. Thought it was cool. Here&amp;rsquo;s what they do 👇🧵&lt;/p&gt;&#xA;&lt;p&gt;@synthetix_io is built on $ETH. The protocol issues Synth tokens, whose prices are pegged to an underlying price feed and are backed by collateral. The main tracked assets are cryptocurrencies, fiat currencies, and gold.  e.g. sUSD - a synth pegged to the USD price.&#xA;The important thing to understand is the Synth is not backed by the actual asset. No trust is holding BTC just because you&amp;rsquo;ve bought sBTC. sBTC is pegged to the price of BTC, without holding any BTC. How do they do this? Read on 👇&lt;/p&gt;</description>
+      <description>&lt;p&gt;I read through the Synthetix Protocol (synthetix.io). It&amp;rsquo;s a protocol enabling the creation of synthetic derivatives based off real-world assets on the blockchain today. It&amp;rsquo;s purpose is only speculative trading. Thought it was cool. Here&amp;rsquo;s what they do 👇🧵&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

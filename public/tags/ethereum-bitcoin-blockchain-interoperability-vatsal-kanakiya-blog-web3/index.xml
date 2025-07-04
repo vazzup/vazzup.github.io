@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/2022-07-16-federated-bridges-how-blockchains-become-interoperable/</link>
       <pubDate>Sat, 16 Jul 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/2022-07-16-federated-bridges-how-blockchains-become-interoperable/</guid>
-      <description>&lt;p&gt;Today, we have many L1 Blockchains like $BTC, $ETH, $SOL, $AVAX etc. Users might have multiple assets across multiple chains, but they will not be able to leverage them across all chains. Moving assets across chains is tough. Here&amp;rsquo;s how bridges solve for interoperability👇🧵&lt;/p&gt;&#xA;&lt;p&gt;Why do we need interchain operability? One reason can be to reap the value of assets on one chain through a dApp on another e.g. using $BTC as collateral to take loans on $AAVE. Another is speed. Moving $ETH assets to $MATIC or $SOL allows you to transact them with speed.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Today, we have many L1 Blockchains like $BTC, $ETH, $SOL, $AVAX etc. Users might have multiple assets across multiple chains, but they will not be able to leverage them across all chains. Moving assets across chains is tough. Here&amp;rsquo;s how bridges solve for interoperability👇🧵&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

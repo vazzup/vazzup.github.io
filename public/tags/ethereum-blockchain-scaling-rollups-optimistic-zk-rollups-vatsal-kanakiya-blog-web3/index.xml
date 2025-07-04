@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/2022-07-15-scaling-ethereum-with-rollups-a-primer/</link>
       <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/2022-07-15-scaling-ethereum-with-rollups-a-primer/</guid>
-      <description>&lt;p&gt;Rollups are the talk of the town - they&amp;rsquo;re one solution to scaling the $ETH blockchain to process more Transactions (Tx) per Second. Here&amp;rsquo;s how Rollups work, and why they&amp;rsquo;re important: 👇🧵&lt;/p&gt;&#xA;&lt;p&gt;Today, every miner in the ETH network has to verify each and every transaction that is made. They check if it&amp;rsquo;s valid, i.e., it&amp;rsquo;s properly signed, there are enough tokens, etc. This is obviously not a very scalable model&lt;/p&gt;</description>
+      <description>&lt;p&gt;Rollups are the talk of the town - they&amp;rsquo;re one solution to scaling the $ETH blockchain to process more Transactions (Tx) per Second. Here&amp;rsquo;s how Rollups work, and why they&amp;rsquo;re important: 👇🧵&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,3 +2,12 @@
 homepage.layout = "profile"
 colorScheme = "sapphire"
 homepage.showRecent = true
+autoSwitchAppearance = true
+enableSearch = true
+footer.showCopyright = false
+article.showBreadcrumbs = true
+article.showTaxonomies = true
+article.showWordCount = true
+list.showBreadcrumbs = true
+list.showSummary = true
+

@@ -5,7 +5,6 @@ title: 'Go Video, or Go Bust'
 tags: ['video', 'startups', 'marketing']
 categories: ['marketing', 'business', 'ideas']
 ---
-# Why Video?
 Youtube is the second largest search engine in the world. Instagram, Facebook, TikTok, and other social media platforms 
 are all video first. LinkedIn too has a video first strategy.   
    
@@ -23,14 +22,14 @@ largest and the most engaged audience.
 Does it actually work? Yes! I ran an experiment, posting short videos daily on LinkedIn. The videos were AI generated,
 AI edited. The result? 1.2Mn impressions. In one month. It works.   
    
-# Some lessons and thoughts on how to do it well
+## Some lessons and thoughts on how to do it well
 1. Thoughtful Content. Think deeply about the audience you want to connect with, and what they will value. Create content
 that they will want to view. If it's GPT generated slop, they're not going to engage. The content has to be valuable to
 the user.   
 2. Consistent. The video content production pipelines and editing, the style, the tones, everything should feel consistent.
 Even the posting times should be consistent. You have to do it long enough to make it work.
 
-# Real time video marketing
+## Real time video marketing
 I'm a big believer that going real time - through twitch / webinars / youtube live is a big opportunity going ahead. Why?
 AI makes video creation easier. So the most authentic / thoughtful content might actually be real time. 
 

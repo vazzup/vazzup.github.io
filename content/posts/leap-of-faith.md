@@ -1,11 +1,14 @@
 ---
-date: '2025-06-26T16:47:50+05:30'
+date: '2025-07-03T16:47:50+05:30'
 draft: true
 title: 'Leap of Faith'
 ---
 Starting a startup is always a leap of faith. Actually, almost anything one does of significance will be a leap of faith.   
    
-All the research in the world can only get one so close to a decision. The last part? Always
+All the research in the world can only get one so close to a decision. The last part? You have to trust your gut and take
+the leap.
+
+
 I'm excited to work with startups who're using AI and Video marketing to grow. Reach out to me at startups _at_ 
 vatsalkanakiya _dot_ com.   
    

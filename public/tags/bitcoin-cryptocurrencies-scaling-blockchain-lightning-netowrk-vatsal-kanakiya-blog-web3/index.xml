@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/2022-07-08-scaling-bitcoin-with-lightning-network-a-primer/</link>
       <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/2022-07-08-scaling-bitcoin-with-lightning-network-a-primer/</guid>
-      <description>&lt;p&gt;Here&amp;rsquo;s the thing: L1s like Bitcoin and Ethereum are slow. Bitcoin currently processes about 5 Transactions (Tx) a second. On the other hand, Visa does 24000 Tx / sec. How can crypto ever outperform traditional money? Here&amp;rsquo;s how Bitcoin scales with the Lightning Network👇🧵&lt;/p&gt;&#xA;&lt;p&gt;There are many ways blockchains can be scaled. Today we&amp;rsquo;ll cover Payment Channels. Payment Channels basically take transactions off the Blockchain and make them Peer to Peer. The Lightning Network on Bitcoin is an example of this. Let&amp;rsquo;s take an example:&lt;/p&gt;</description>
+      <description>&lt;p&gt;Here&amp;rsquo;s the thing: L1s like Bitcoin and Ethereum are slow. Bitcoin currently processes about 5 Transactions (Tx) a second. On the other hand, Visa does 24000 Tx / sec. How can crypto ever outperform traditional money? Here&amp;rsquo;s how Bitcoin scales with the Lightning Network👇🧵&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

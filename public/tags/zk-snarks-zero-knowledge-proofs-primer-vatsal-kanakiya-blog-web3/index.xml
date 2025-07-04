@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/2022-07-05-zk-snarks-a-primer/</link>
       <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/2022-07-05-zk-snarks-a-primer/</guid>
-      <description>&lt;p&gt;Zero Knowledge Proofs have a real application in the crypto world. They can be used for Rollups, Private Transactions, and a lot more. ZK Proofs  that work on the blockchain are a special type called SNARKs. Let&amp;rsquo;s do a deep dive into what ZK Snarks are and how they work: 👇🧵&lt;/p&gt;&#xA;&lt;p&gt;Firstly, if you aren&amp;rsquo;t yet aware of Zero Knowledge (ZK) proofs, &lt;a href=&#34;http://localhost:1313/posts/2022-07-04-zero-knowledge-proofs-a-primer/&#34;&gt;here&amp;rsquo;s a blog&lt;/a&gt; that elucidates more on the same.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Zero Knowledge Proofs have a real application in the crypto world. They can be used for Rollups, Private Transactions, and a lot more. ZK Proofs  that work on the blockchain are a special type called SNARKs. Let&amp;rsquo;s do a deep dive into what ZK Snarks are and how they work: 👇🧵&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
