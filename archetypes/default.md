@@ -2,8 +2,10 @@
 date: '{{ .Date }}'
 draft: true
 title: '{{ replace .File.ContentBaseName "-" " " | title }}'
+tags: ['startups']
+categories: ['startups']
 ---
    
-I'm excited to work with founders with the right mindset. Reach out to me at startups _at_ vatsalkanakiya _dot_ com.   
+I consult with startups to help them scale. Reach out at consult _at_ vatsalkanakiya _dot_ com.   
    
-If you're exploring how to work with AI to scale your business, reach out at consult _at_ vatsalkanakiya _dot_ com.   
+I also occasionally invest in great startups. Reach out to me at startups _at_ vatsalkanakiya _dot_ com.   

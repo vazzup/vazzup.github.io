@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Building on Vatsal Kanakiya&#39;s Blog</title>
+    <link>http://localhost:1313/tags/building/</link>
+    <description>Recent content in Building on Vatsal Kanakiya&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 05 Aug 2025 13:00:05 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/building/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shortcuts suck - just do the work</title>
+      <link>http://localhost:1313/posts/shortcuts-suck/</link>
+      <pubDate>Tue, 05 Aug 2025 13:00:05 +0530</pubDate>
+      <guid>http://localhost:1313/posts/shortcuts-suck/</guid>
+      <description>&lt;p&gt;Founders always have the urge to find shortcuts around things. That&amp;rsquo;s actually a strong sign of entrepreneurial spirit.&#xA;But, it&amp;rsquo;s only a skill, just like any other skill. It can&amp;rsquo;t be used to get around everything in entrepreneurship.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

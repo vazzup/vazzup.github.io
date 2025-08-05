@@ -6,13 +6,34 @@
     <description>Recent content in Categories on Vatsal Kanakiya&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Jun 2025 17:17:25 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 05 Aug 2025 13:00:05 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>http://localhost:1313/categories/blog/</link>
+      <pubDate>Tue, 05 Aug 2025 13:00:05 +0530</pubDate>
+      <guid>http://localhost:1313/categories/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Startups</title>
+      <link>http://localhost:1313/categories/startups/</link>
+      <pubDate>Tue, 05 Aug 2025 13:00:05 +0530</pubDate>
+      <guid>http://localhost:1313/categories/startups/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Business</title>
       <link>http://localhost:1313/categories/business/</link>
-      <pubDate>Thu, 05 Jun 2025 17:17:25 -0700</pubDate>
+      <pubDate>Thu, 03 Jul 2025 18:53:38 +0530</pubDate>
       <guid>http://localhost:1313/categories/business/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hiring</title>
+      <link>http://localhost:1313/categories/hiring/</link>
+      <pubDate>Thu, 03 Jul 2025 18:53:38 +0530</pubDate>
+      <guid>http://localhost:1313/categories/hiring/</guid>
       <description></description>
     </item>
     <item>
