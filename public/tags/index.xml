@@ -6,13 +6,48 @@
     <description>Recent content in Tags on Vatsal Kanakiya&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Aug 2025 13:00:05 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 09 Sep 2025 19:58:10 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>http://localhost:1313/tags/ai/</link>
+      <pubDate>Tue, 09 Sep 2025 19:58:10 +0530</pubDate>
+      <guid>http://localhost:1313/tags/ai/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Building</title>
       <link>http://localhost:1313/tags/building/</link>
-      <pubDate>Tue, 05 Aug 2025 13:00:05 +0530</pubDate>
+      <pubDate>Tue, 09 Sep 2025 19:58:10 +0530</pubDate>
       <guid>http://localhost:1313/tags/building/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Claude</title>
+      <link>http://localhost:1313/tags/claude/</link>
+      <pubDate>Tue, 09 Sep 2025 19:58:10 +0530</pubDate>
+      <guid>http://localhost:1313/tags/claude/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lessons</title>
+      <link>http://localhost:1313/tags/lessons/</link>
+      <pubDate>Tue, 09 Sep 2025 19:58:10 +0530</pubDate>
+      <guid>http://localhost:1313/tags/lessons/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Startups</title>
+      <link>http://localhost:1313/tags/startups/</link>
+      <pubDate>Tue, 09 Sep 2025 19:58:10 +0530</pubDate>
+      <guid>http://localhost:1313/tags/startups/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tips</title>
+      <link>http://localhost:1313/tags/tips/</link>
+      <pubDate>Tue, 09 Sep 2025 19:58:10 +0530</pubDate>
+      <guid>http://localhost:1313/tags/tips/</guid>
       <description></description>
     </item>
     <item>
@@ -27,13 +62,6 @@
       <link>http://localhost:1313/tags/motivation/</link>
       <pubDate>Tue, 05 Aug 2025 13:00:05 +0530</pubDate>
       <guid>http://localhost:1313/tags/motivation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Startups</title>
-      <link>http://localhost:1313/tags/startups/</link>
-      <pubDate>Tue, 05 Aug 2025 13:00:05 +0530</pubDate>
-      <guid>http://localhost:1313/tags/startups/</guid>
       <description></description>
     </item>
     <item>

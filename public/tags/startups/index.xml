@@ -6,8 +6,15 @@
     <description>Recent content in Startups on Vatsal Kanakiya&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Aug 2025 13:00:05 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 09 Sep 2025 19:58:10 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/startups/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building With Claude Code</title>
+      <link>http://localhost:1313/posts/building-with-claude-code/</link>
+      <pubDate>Tue, 09 Sep 2025 19:58:10 +0530</pubDate>
+      <guid>http://localhost:1313/posts/building-with-claude-code/</guid>
+      <description>&lt;p&gt;Claude Code is awesome. If you&amp;rsquo;re a software developer, using it is a superpower. It&amp;rsquo;s effectively a junior SDE on your&#xA;payroll, and you&amp;rsquo;re its Engineering Manager. If you guide it well, it&amp;rsquo;ll get everything you need done. I&amp;rsquo;ve been using&#xA;it for the last 3 weeks, and I have a lot of lessons to share. Let&amp;rsquo;s begin:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Shortcuts suck - just do the work</title>
       <link>http://localhost:1313/posts/shortcuts-suck/</link>
